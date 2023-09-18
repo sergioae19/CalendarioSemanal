@@ -1,3 +1,3 @@
 # CalendarioSemanal
 
-Este cuatrimestre voy a tener una carga considerable de créditos a superar y el problema que siempre he tenido es que me cuesta mucho organizarme. Quiero que haya algún software que me ayude a hacerlo de una manera más eficiente,  para así no perder mi tiempo que podría estar dedicando a estudiar en organizar mis horarios cada semana. Quiero que me ayude tanto semanas normales en las que tengo clases y prácticas a entregar y también me gustaría que lo hiciera en el aspecto fuera del ámbito de estudio así como ir al gym, salir, etc...
+Este cuatrimestre voy a tener una carga considerable de créditos a superar y me gustaría no tener que perder demasiado tiempo en organizarme.
