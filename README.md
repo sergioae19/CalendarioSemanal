@@ -1,5 +1,3 @@
-# CalendarioSemanal
-
-Este cuatrimestre voy a tener una carga considerable de créditos a superar y me gustaría no tener que perder demasiado tiempo en organizarme.
-
+# Tienda Online
+El cliente consta de dos tiendas en la que vende miles de productos distintos. Quiere dar el salto digital y tener una tienda online en la que venderlos ya que muchos clientes que van a comprar le preguntan si la tienen. Uno de los problemas es que al tener tantos productos distintos e incorporaciones nuevas frecuentemente, sería un trabajo muy tedioso el tener que subir producto a producto a la web. Quiere que el producto se suba de manera rápida y eficaz solámente teniendo que hacerle una foto y ajustando un par de parametros como es el precio, material...
 <a href="gitconfiguration.png">Configuracion git</a>
