@@ -1,4 +1,6 @@
-# Tienda Online
-El cliente consta de dos tiendas en la que vende miles de productos distintos. Quiere dar el salto digital y tener una tienda online en la que vender ya que muchos clientes que van a comprar le preguntan por ella. Uno de los problemas es que al tener tantos productos distintos e incorporaciones nuevas frecuentemente, sería un trabajo muy tedioso tener la tienda online actualizada al día. Además, sus padres, quienes dirigen el negocio, no tienen experiencia en la gestión digital. La idea sería encontrar una forma sencilla y eficaz de mantener la tienda en línea siempre actualizada y de una manera fácil de gestionar ya que nos encontramos miles de productos distintos de los que hay poco stock.
+# SMITETracker
+
+Se necesita desarrollar un sistema de estadísticas para los usuarios de Smite que les permita acceder a información relevante, como el número de partidas ganadas, los personajes mas jugados o calcular su ratio de victorias frente a derrotas. Este servicio resulta útil para que los jugadores evalúen su rendimiento y también para poder encontrar rivales que se asemejen en nivel de una manera mas precisa.
 
 <a href="gitconfiguration.png">Configuracion git</a>
+
