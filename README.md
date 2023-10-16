@@ -10,6 +10,7 @@ Como comunidad competitiva del videojuego SMITE, tenemos un problema común, y e
 
 <a href="/docs/milestones.md">Milestones</a>
 
+## Configuración git
 
 <a href="/docs/gitconfiguration.png">Configuracion git</a>
 
