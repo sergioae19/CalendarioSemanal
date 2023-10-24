@@ -7,3 +7,5 @@ Adríán tiene 25 años y tiene dos trabajos que intenta complementar. Uno de el
 
 
 ## Sergio
+
+Sergio tiene 24 años y está terminando la carrera de ingeniería informática mientras compite profesionalmente en el videojuego SMITE.
